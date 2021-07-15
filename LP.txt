@@ -1,0 +1,8 @@
+www.youtube.com/watch?v=N0QblwXyXvo&pbjreload=102
+код ответа 200
+	   304
+
+www.youtube.com/watch?v=YtZZ-hxz9TI
+код ответа 200
+	   302
+	   204
